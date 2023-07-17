@@ -1,4 +1,4 @@
-package com.iscram;
+package com.iscram.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

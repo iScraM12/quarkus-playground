@@ -1,4 +1,4 @@
-package com.iscram;
+package com.iscram.resources;
 
 import org.eclipse.microprofile.graphql.DefaultValue;
 import org.eclipse.microprofile.graphql.Description;
